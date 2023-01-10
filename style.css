@@ -1,0 +1,17 @@
+
+input{
+    width:380px;
+    padding-left: 100px;
+}
+span{
+    position: absolute;
+    padding-right: 10px;
+}
+input{
+    margin-left: 50px;
+    position: relative;
+    display: inline;
+}
+.container{
+    width: 520px;
+}
