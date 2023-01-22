@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evanhu96/week-5-challenge/issues"
   },
-  "homepage": "https://github.com/evanhu96/week-5-challenge#readme"
+  "homepage": "https://github.com/evanhu96/week-5-challenge#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
