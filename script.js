@@ -1,3 +1,4 @@
+const moment = require('moment')
 var time = moment();
 var containerEl = document.getElementById('row');
 var dateEl = document.getElementById('currentDay');
